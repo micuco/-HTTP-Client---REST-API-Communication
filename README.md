@@ -6,7 +6,7 @@ This project is an implementation of an HTTP client that communicates with a RES
 
 The application simulates a client-server interaction using HTTP. The server exposes a REST API, and the client (implemented in C/C++) sends requests and processes responses.
 
-The client acts as a command-line interface for managing users, movies, and collections in an online library system. :contentReference[oaicite:0]{index=0}
+The client acts as a command-line interface for managing users, movies, and collections in an online library system.
 
 ## Features
 
